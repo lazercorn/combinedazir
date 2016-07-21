@@ -1,0 +1,2 @@
+C:\Users\Perry\Downloads\LeagueSharp-master\LeagueSharp-master\CombinedAzir\obj\x86\Release\Azir.csprojResolveAssemblyReference.cache
+C:\Users\Perry\Desktop\CombinedAzir\obj\x86\Release\Azir.csprojResolveAssemblyReference.cache
